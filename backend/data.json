@@ -1,0 +1,191 @@
+[
+  {
+    "id": "f8a13b0d-6b42-47a5-a321-1b8b6a33e501",
+    "template": "template2",
+    "hero": {
+      "name": "Ava Mitchell",
+      "title": "Frontend Developer",
+      "tagline": "I build clean, fast, and delightful interfaces.",
+      "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=600&q=80"
+    },
+    "about": {
+      "bio": "Frontend developer focused on crafting seamless UI experiences with React and Vite. Turning designs into fully interactive interfaces that load faster than you can blink.",
+      "email": "ava.mitchell@example.com",
+      "phone": "+1 555 908 2231",
+      "location": "San Francisco, USA",
+      "socials": "github.com/ava-dev, linkedin.com/in/ava-mitchell"
+    },
+    "skills": ["React", "JavaScript", "CSS", "Vite", "Node.js", "UI Design", "REST APIs"],
+    "services": [
+      {
+        "title": "Web App Development",
+        "description": "Building responsive and scalable SPAs using React and modern JavaScript."
+      },
+      {
+        "title": "UI/UX Design",
+        "description": "Designing minimal, intuitive interfaces with accessibility in mind."
+      },
+      {
+        "title": "Performance Optimization",
+        "description": "Reducing load times and improving web vitals for better UX."
+      }
+    ],
+    "projects": [
+      {
+        "title": "MindFlow Journal",
+        "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=600&q=80",
+        "description": "A journaling app that integrates mood tracking and AI insights."
+      },
+      {
+        "title": "Portify",
+        "image": "https://images.unsplash.com/photo-1581092334364-2b7b9b3b03eb?auto=format&fit=crop&w=600&q=80",
+        "description": "A portfolio generator for developers to showcase their skills dynamically."
+      },
+      {
+        "title": "Weatherly",
+        "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=600&q=80",
+        "description": "A responsive weather app with hourly forecasts and map visualizations."
+      }
+    ],
+    "testimonials": [
+      "“Ava is a designer’s dream — quick, consistent, and creative.” – Claire R.",
+      "“Delivered high-quality React code days before the deadline.” – Jake L."
+    ],
+    "blog": {
+      "title": "How I Designed Faster React Apps",
+      "summary": "Exploring performance tricks like lazy loading, memoization, and dynamic imports to cut build times in half."
+    },
+    "contact": {
+      "message": "Let’s collaborate on something amazing!",
+      "email": "ava.mitchell@example.com",
+      "phone": "+1 555 908 2231"
+    },
+    "createdAt": "2025-10-25T18:03:12.422Z"
+  },
+  {
+    "id": "bd62ad4b-d0fb-4c8b-93ce-992ee1820b99",
+    "template": "template2",
+    "hero": {
+      "name": "Leo Carter",
+      "title": "Backend Engineer",
+      "tagline": "Clean APIs. Clear logic. No nonsense.",
+      "image": "https://images.unsplash.com/photo-1603415526960-f7e0328d5d63?auto=format&fit=crop&w=600&q=80"
+    },
+    "about": {
+      "bio": "Backend engineer who enjoys untangling messy systems. I design scalable APIs and database schemas that just work.",
+      "email": "leo.carter@example.com",
+      "phone": "+1 555 441 8822",
+      "location": "Austin, USA",
+      "socials": "github.com/leo-backend, linkedin.com/in/leo-carter"
+    },
+    "skills": ["Node.js", "Express", "MongoDB", "PostgreSQL", "REST", "Docker", "Redis"],
+    "services": [
+      {
+        "title": "API Design",
+        "description": "Designing RESTful APIs that are fast, secure, and maintainable."
+      },
+      {
+        "title": "Database Modeling",
+        "description": "Building normalized and efficient database schemas."
+      },
+      {
+        "title": "DevOps Support",
+        "description": "Containerization, CI/CD pipelines, and cloud deployment."
+      }
+    ],
+    "projects": [
+      {
+        "title": "TaskTrackr",
+        "image": "https://images.unsplash.com/photo-1581090464777-9b6b18c64343?auto=format&fit=crop&w=600&q=80",
+        "description": "A productivity API that integrates with Slack for team task management."
+      },
+      {
+        "title": "CloudSync",
+        "image": "https://images.unsplash.com/photo-1556155092-8707de31f9c4?auto=format&fit=crop&w=600&q=80",
+        "description": "File synchronization system with automatic conflict resolution."
+      },
+      {
+        "title": "BookWise",
+        "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=80",
+        "description": "Backend service for an online bookstore with role-based access control."
+      }
+    ],
+    "testimonials": [
+      "“Leo built our backend so stable, it hasn’t crashed once.” – Samir D.",
+      "“He writes database queries that read like poetry.” – Nina W."
+    ],
+    "blog": {
+      "title": "5 Mistakes Developers Make with Express",
+      "summary": "A practical guide to writing cleaner middleware and avoiding callback hell."
+    },
+    "contact": {
+      "message": "Available for backend architecture consulting and long-term projects.",
+      "email": "leo.carter@example.com",
+      "phone": "+1 555 441 8822"
+    },
+    "createdAt": "2025-10-25T18:04:12.422Z"
+  },
+  {
+    "id": "c972ad4b-d1ab-4b8d-95ce-992ee1820b12",
+    "template": "template1",
+    "hero": {
+      "name": "Maya Rivera",
+      "title": "UX Designer",
+      "tagline": "Designing with empathy, building with intent.",
+      "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=600&q=80"
+    },
+    "about": {
+      "bio": "UX designer with a soft spot for clean typography and accessible interfaces. Turning business goals into user joy since 2018.",
+      "email": "maya.rivera@example.com",
+      "phone": "+1 555 222 1974",
+      "location": "New York, USA",
+      "socials": "dribbble.com/mayar, behance.net/maya-rivera"
+    },
+    "skills": ["Figma", "Adobe XD", "Prototyping", "Accessibility", "User Research", "Wireframing"],
+    "services": [
+      {
+        "title": "User Interface Design",
+        "description": "Designing clean, consistent interfaces for web and mobile."
+      },
+      {
+        "title": "User Research",
+        "description": "Running interviews and usability testing to validate designs."
+      },
+      {
+        "title": "Prototyping",
+        "description": "Creating interactive prototypes for rapid iteration."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Bloom Fitness App",
+        "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=600&q=80",
+        "description": "A minimal mobile app to help users track workouts and mindfulness goals."
+      },
+      {
+        "title": "Learnly Dashboard",
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80",
+        "description": "Redesign of an e-learning dashboard with improved navigation and analytics."
+      },
+      {
+        "title": "Artfolio",
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80",
+        "description": "A portfolio website concept for visual artists and designers."
+      }
+    ],
+    "testimonials": [
+      "“Maya has an eye for detail that makes every project shine.” – Lucas H.",
+      "“Her UX decisions always come backed with real data.” – Tanya G."
+    ],
+    "blog": {
+      "title": "The Psychology Behind Good UX",
+      "summary": "Exploring cognitive load, feedback loops, and why users love simplicity."
+    },
+    "contact": {
+      "message": "Let’s create digital experiences that feel effortless.",
+      "email": "maya.rivera@example.com",
+      "phone": "+1 555 222 1974"
+    },
+    "createdAt": "2025-10-25T18:05:12.422Z"
+  }
+]
