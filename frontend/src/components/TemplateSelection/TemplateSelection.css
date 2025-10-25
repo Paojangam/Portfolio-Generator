@@ -1,0 +1,8 @@
+.template-selection { margin: 18px 0 28px; }
+.templates-row { display:flex; gap:14px; }
+.template-card { background:#fff; border-radius:10px; padding:12px; box-shadow:0 6px 18px rgba(0,0,0,0.06); cursor:pointer; width:260px; }
+.template-card.sel { outline:3px solid var(--accent); transform:translateY(-4px); }
+.template-thumb { height:90px; border-radius:6px; display:flex; align-items:center; justify-content:center; font-weight:700; color:#fff; margin-bottom:8px; }
+.template-thumb.t1 { background:linear-gradient(180deg,#ffd34d,#f6c400); color:#111; }
+.template-thumb.t2 { background:linear-gradient(180deg,#5a6ea6,#334a8a); }
+.template-desc { color:var(--muted); font-size:13px; }

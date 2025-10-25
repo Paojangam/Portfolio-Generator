@@ -1,0 +1,10 @@
+.profile-card { width:260px; background:#fff; padding:14px; border-radius:12px; box-shadow:0 8px 22px rgba(0,0,0,.06); display:flex; flex-direction:column; gap:10px; }
+.card-top { display:flex; gap:12px; align-items:center; }
+.avatar { width:70px; height:70px; object-fit:cover; border-radius:50%; border:3px solid #fff; box-shadow:0 4px 10px rgba(0,0,0,.06); }
+.meta .name { font-weight:700; }
+.meta .title { color:var(--muted); font-size:13px; }
+.bio { color:#444; font-size:13px; min-height:36px; }
+.skills { display:flex; gap:6px; flex-wrap:wrap; }
+.skill { background:#f1f1f1; padding:4px 8px; border-radius:6px; font-size:12px; }
+.card-actions { display:flex; justify-content:flex-end; }
+.btn-view { background: #111; color:#fff; border:none; padding:8px 10px; border-radius:8px; }

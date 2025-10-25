@@ -1,0 +1,9 @@
+.form-card { background:#fff; padding:18px; border-radius:10px; box-shadow:0 8px 24px rgba(0,0,0,.05); margin-bottom:18px; }
+.form-card h3 { margin-top:12px; margin-bottom:8px; }
+.form-card input, .form-card textarea { width:100%; padding:10px; margin:6px 0; border:1px solid #e6e6e6; border-radius:6px; }
+.form-card .row { display:flex; gap:10px; }
+.form-card .row input { flex:1; }
+.service-row, .project-row { display:flex; gap:8px; margin-bottom:8px; }
+.service-row input, .project-row input { flex:1; }
+.form-actions { display:flex; justify-content:flex-end; margin-top:12px; }
+.btn-primary { background:var(--accent); border:none; padding:10px 14px; border-radius:8px; font-weight:700; }
